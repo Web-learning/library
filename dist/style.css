@@ -1,0 +1,57 @@
+
+body {
+  background: #eef3ff;
+  padding: 20px;
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  color: #3455a4;
+}
+
+button {
+  background: #3455a4;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:disabled {
+  opacity: 0.6;
+}
+
+#message {
+  margin: 20px 0;
+}
+
+#books {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 15px;
+}
+
+.book {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px #ccc;
+}
+
+.book img {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+  background: #f5f5f5;
+}
+
+.book h3 {
+  color: #3455a4;
+  font-size: 17px;
+}
+
+.book a {
+  color: #3455a4;
+}
