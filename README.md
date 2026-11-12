@@ -18,10 +18,12 @@
 With chat GPT I've propted [HTML, CSS and JS code](https://web-learning.github.io/library/dist/) to that attempts to track and find some "veriefiable" information about the platform. It also aims to show the coder  a bit about how data structures are pulled together. Its a messy, muddy puddle.          
 
 The Library is on Github
-├── src/
-├── dist/
-├── LICENSE.txt
-├── README.md
+
+eventmodeling
+
+
+tf 01 cmd SRC ->> 02
+tf 02 evt DIST
 
 The Library is also on Codepen
 
