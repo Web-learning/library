@@ -12,7 +12,7 @@ Vandalism (avoidant, hidden, silly or image etc)
 We need to start asking questions about the platform itself, its terminology and its effect on our identity and reality.
 
 
-With chat GPT I've propted [https://web-learning.github.io/library/dist/](HTML, CSS and JS code) to that pupports to unpack some "veriefiable" information about the platform. It also aims to teach the coder  a bit about how data structures are pulled together. Its a messy, muddy puddle.          
+With chat GPT I've propted [HTML, CSS and JS code](https://web-learning.github.io/library/dist/) to that pupports to unpack some "veriefiable" information about the platform. It also aims to teach the coder  a bit about how data structures are pulled together. Its a messy, muddy puddle.          
 
 
 Original URL: [https://codepen.io/editor/Web-learning-the-bold/pen/01a1ca50-f5a9-7574-9544-dba4ed6d37b6](https://codepen.io/editor/Web-learning-the-bold/pen/01a1ca50-f5a9-7574-9544-dba4ed6d37b6).
