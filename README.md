@@ -1,10 +1,18 @@
 # Pseudonymous books, authors, editors and administrators 
 
-Modderpoel is a Dutch word for mud (modder) and pool (poel). I wrote a blogpost about the Seventh Million Wikipedia page and called it a "muddy puddle".   
-Why? Because the celebrated seven millionth article is about a book entitled "Operators and Things: The Inner Life of a Schizophrenic". The identity of both the writer and book reviewer is anonomous. 
-These are that every writer and Wikipedian makes. But when a platform beomes a place where volunteers and editors turned into victims and perpetrators. We need to start asking questions about the platform itself.    
+Modderpoel is the Dutch word for mud (modder) and pool (poel). I wrote a blog (web) and (log) post about the seventh million Wikipedia, another pormanteau word meaning  quick or fast (in Hawain) and encyclopeadia.  The article goes by the name "Modderpoel".
 
-With chat GPT I've propted code to that pupports to unpack anonymity. Among Wikipedians, in the literary world on on Wikipedia. Its a messy, muddy puddle.          
+Wikipedia celebrated seven millionth english article about a book entitled "Operators and Things: The Inner Life of a Schizophrenic". The identity of both the writer and book reviewer is anonomous. The author of a book about schizophrenia  might have good reason to remain anonomous. A reviewer of of the book also might want to mask their identity. Its common in academia.  
+These are choices that every writer and reviewer makes. But when a platform beomes a place where volunteers and editors turned into victims and perpetrators. And a whole new vocabulary associated with the platform appears  
+
+Sockpuppetry
+Hounding 
+Vandalism (avoidant, hidden, silly or image etc) 
+
+We need to start asking questions about the platform itself, its terminology and its effect on our identity and reality.
+
+
+With chat GPT I've propted code to that pupports to unpack anonymity. Among Wikipedians, in the literary world on on Wikipedia. It also aims to teach the user a bit about how Wikipedia is pulled together. Its a messy, muddy puddle.          
 
 
 Original URL: [https://codepen.io/editor/Web-learning-the-bold/pen/01a1ca50-f5a9-7574-9544-dba4ed6d37b6](https://codepen.io/editor/Web-learning-the-bold/pen/01a1ca50-f5a9-7574-9544-dba4ed6d37b6).
