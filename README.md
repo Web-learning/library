@@ -13,21 +13,9 @@
 
 # The Library 📖
 
-## A muddy puddle (Pseudonymous books, authors, editors and administrators) 
+## Spoor
 
-Modderpoel is the Dutch word for mud (modder) and pool (poel). I wrote a blog (web) and (log) post about the seventh million Wikipedia (another pormanteau word meaning  quick or fast (in Hawain) and encyclopeadia).  The article goes by the name "Modderpoel". 'Çause things are murky. 
-
-Wikipedia celebrated seven millionth english article. They chose to highlight a book entitled "Operators and Things: The Inner Life of a Schizophrenic". The identity of both the writer and book reviewer is anonomous. The author of the non-fiction book about schizophrenia  might have good reason to remain anonomous. A reviewer of the book also might want to mask their identity. This common in both academia and wikipedia. These are choices that every writer and reviewer makes. But when a platform beomes a place where people can be blocked and [vanished](https://meta.wikimedia.org/wiki/User:AccountVanishRequests), 
-where volunteers and editors turned into victims and perpetrators a whole new vocabulary associated with the platform appears  
-
-Sockpuppetry
-Hounding 
-Vandalism (avoidant, hidden, silly or image etc) 
-
-We need to start asking questions about the platform itself, its terminology and the effects on our identity and reality. We need to become 
-
-## Making a muddy puddle
-With chat GPT I've propted [HTML, CSS and JS code](https://web-learning.github.io/library/dist/) to that attempts to unpack some "veriefiable" information about the platform. It also aims to show the coder  a bit about how data structures are pulled together. Its a messy, muddy puddle.          
+With chat GPT I've propted [HTML, CSS and JS code](https://web-learning.github.io/library/dist/) to that attempts to track and find some "veriefiable" information about the platform. It also aims to show the coder  a bit about how data structures are pulled together. Its a messy, muddy puddle.          
 
 The Library is on Github
 ├── src/
@@ -35,7 +23,7 @@ The Library is on Github
 ├── LICENSE.txt
 ├── README.md
 
-The Library is on Codepen
+The Library is also on Codepen
 
 ├── index.html
 ├── style.css
